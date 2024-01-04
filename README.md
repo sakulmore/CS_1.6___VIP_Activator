@@ -6,7 +6,7 @@ Thanks to this plugin, you can set VIP status for players (better written as fla
 
 ## Commands (console)
 `Syntax: ray_vip <nickname / #id / SID> <flag> <set / remove> <time in seconds>`<br>
-*(Example: ray_vip "STEAM_0:0:12345678" "m" "set" "85")*<br>
+*(Example: ray_vip "STEAM_0:0:12345678" "m" "set" "85")*<br><br>
 This will set to an player with given SteamID flag "m" for 85 seconds.
 
 ## Ideas
