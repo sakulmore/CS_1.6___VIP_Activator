@@ -9,6 +9,9 @@ Thanks to this plugin, you can set VIP status for players (better written as fla
 *(Example: ray_vip "STEAM_0:0:12345678" "m" "set" "85")*<br><br>
 This will set to an player with given SteamID flag "m" for 85 seconds.
 
+## Config File
+After sending the command to the console the server will create the file `/cstrike/addons/amxmodx/data/file_vault/Vip_Vault.txt` where will be written all players that has certain flag setten.
+
 ## Ideas
 Maybe you wonder how you can use this plugin. In my case, I have a PHP script connected with this plugin.
 
