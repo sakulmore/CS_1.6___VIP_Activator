@@ -5,8 +5,8 @@ Thanks to this plugin, you can set VIP status for players (better written as fla
 - Just download the plugin and upload the .amxx file to your plugins folder on your server (or you can of course compile the .sma file and then upload the compilated .amxx file to your server).
 
 ## Commands (console)
-`Syntax: ray_vip <nickname / #id / SID> <flag> <set / remove> <time in seconds>`
-*(Example: ray_vip "STEAM_0:0:12345678" "m" "set" "85")*
+`Syntax: ray_vip <nickname / #id / SID> <flag> <set / remove> <time in seconds>`<br>
+*(Example: ray_vip "STEAM_0:0:12345678" "m" "set" "85")*<br>
 This will set to an player with given SteamID flag "m" for 85 seconds.
 
 ## Ideas
